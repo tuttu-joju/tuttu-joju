@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @tuttu-joju
-- 👀 I’m interested in Learnig about Java,Python, NodeJS, ReactJS, Kubernetes
-- 🌱 I’m currently learning Node
-- 📫 How to reach me georgeantony1988@gmail.com
+- 👋 Hi, George Antony here.
+- 👀 I’m experienced in Java, Python, NodeJS, ReactJS.
+- 🌱 I’m currently learning Microservices and kubernetes
+- 📫 How to reach me georgeantony1988@gmail.com or georgeantonyk@gmail.com
       
 
 <!---
